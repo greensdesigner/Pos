@@ -1,0 +1,6 @@
+{
+  "name": "GreensStock",
+  "description": "Comprehensive Point of Sale (POS), Inventory Management, and Business Financial ERP system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
